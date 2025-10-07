@@ -1,6 +1,7 @@
-## Hi there 👋
 
-<!--
+- ⭐️ Hi, I’m Ella Robinette
+- 🫠 I’m interested in software development and robotic
+- 💖 I'm currently learning Python, HTML, CSS, and Javascript
 **ella-ti/ella-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
